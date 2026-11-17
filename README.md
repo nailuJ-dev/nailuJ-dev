@@ -16,7 +16,7 @@ Research and prototyping around enterprise knowledge retrieval, access control a
 **RF Signal Intelligence Lab**  
 Signal analysis, synthetic RF datasets and experimentation with digital signal processing.
 
-**Physics Environment Simulator**  
+**Physics Environment Simulator - sim-spectra**  
 Scientific simulation tools for exploring physical models and environmental propagation.
 
 **AI Solution Architect Copilot**  
